@@ -18,6 +18,7 @@ jobs:
         with:
           pdk: ihp
           tools-ref: gf180mcu
+          librelane-version: 3.0.0.dev39
 
   precheck:
     needs: gds
